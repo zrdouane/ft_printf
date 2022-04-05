@@ -1,7 +1,7 @@
 printf (42cursus) 2021-2022
 
 - Actual Status : finished.
-- Result        : 100%
+- Result        :  ![zrdouane's 42 ft_printf Score](https://badge42.vercel.app/api/v2/cl1jrultt001109l51mtgnmck/project/2430538)
 - Observations : (null)
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-c.svg)](https://forthebadge.com)
